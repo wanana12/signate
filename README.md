@@ -24,6 +24,10 @@ https://gotutiyan.hatenablog.com/entry/2020/09/08/122621
 ### iris.R
 ローカル環境（データ分析）
 
-参考にした本
+参考文献
+
+https://ggplot2.tidyverse.org/index.html
 
 https://www.oreilly.co.jp/books/9784873118925/
+
+https://stats.biopapyrus.jp/r/ggplot/geom_histogram.html
