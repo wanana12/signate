@@ -34,11 +34,13 @@ ggplot(train, aes(x = sepal.length.in.cm, fill = class)) + geom_density(alpha = 
 
 # 箱ひげ図
 ggplot(train, aes(x = class,y = sepal.length.in.cm)) + geom_boxplot()
-ggplot(train, aes(x = class,y = sepal.length.in.cm)) + geom_boxplot() + stat_summary(fun.y = "mean", shape = 23, fill = "white")
+# ggplot(train, aes(x = class,y = sepal.length.in.cm)) + geom_boxplot() + stat_summary(fun.y = "mean", shape = 23, fill = "white")
+ggplot(train, aes(x = class,y = sepal.length.in.cm, fill = class)) + geom_boxplot()
 
 # バイオリンプロット
 ggplot(train, aes(x = class,y = sepal.length.in.cm)) + geom_violin()
-ggplot(train, aes(x = class,y = sepal.length.in.cm)) + geom_violin() + geom_boxplot(width = .1, fill = "black", outlier.color = NA) + stat_summary(fun.y = "median", shape = 21, fill = "white")
+# ggplot(train, aes(x = class,y = sepal.length.in.cm)) + geom_violin() + geom_boxplot(width = .1, fill = "black", outlier.color = NA) + stat_summary(fun.y = "median", shape = 21, fill = "white")
+ggplot(train, aes(x = class,y = sepal.length.in.cm, fill = class)) + geom_violin()
 
 # 密度プロット
 ggplot(train, aes(x = sepal.length.in.cm, y = sepal.width.in.cm)) + geom_point() + stat_density2d()
