@@ -1,7 +1,6 @@
 # signate
 SIGNATEのコード
 
-## titanic
 ### titanic.ipynb
 Google Colab
 
@@ -9,7 +8,6 @@ Google Colab
 
 https://www.kaggle.com/code/sishihara/upura-kaggle-tutorial-01-first-submission
 
-## iris
 ### iris.ipynb
 Google Colab
 
