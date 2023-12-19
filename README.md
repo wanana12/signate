@@ -1,14 +1,23 @@
 # signate
 SIGNATEのコード
 
-### titanic.ipynb
-Google Colab
+### bot.ipynb
+https://signate.jp/competitions/124
 
-参考にしたコード
+### car.ipynb
+https://signate.jp/competitions/122
 
-https://www.kaggle.com/code/sishihara/upura-kaggle-tutorial-01-first-submission
+### internet-image.ipynb
+https://signate.jp/competitions/135
+
+### iris.R
+https://signate.jp/competitions/115
+
+ローカル環境（データ分析）
 
 ### iris.ipynb
+https://signate.jp/competitions/115
+
 Google Colab
 
 参考にしたコード
@@ -19,8 +28,20 @@ https://ct-innovation01.xyz/DL-Freetime/kaggle-003/
 
 https://gotutiyan.hatenablog.com/entry/2020/09/08/122621
 
-### iris.R
-ローカル環境（データ分析）
+### mushroom.ipynb
+https://signate.jp/competitions/105
+
+### titanic.ipynb
+https://signate.jp/competitions/102
+
+Google Colab
+
+参考にしたコード
+
+https://www.kaggle.com/code/sishihara/upura-kaggle-tutorial-01-first-submission
+
+### wine.ipynb
+https://signate.jp/competitions/112
 
 参考文献
 
