@@ -26,7 +26,7 @@ https://signate.jp/competitions/115
 
 Google Colab
 
-参考にしたコード
+参考文献
 
 https://www.kaggle.com/code/sishihara/upura-kaggle-tutorial-01-first-submission
 
@@ -42,7 +42,7 @@ https://signate.jp/competitions/102
 
 Google Colab
 
-参考にしたコード
+参考文献
 
 https://www.kaggle.com/code/sishihara/upura-kaggle-tutorial-01-first-submission
 
