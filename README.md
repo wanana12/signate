@@ -1,6 +1,9 @@
 # signate
 SIGNATEのコード
 
+## balance.ipynb
+https://signate.jp/competitions/130
+
 ## bot.ipynb
 https://signate.jp/competitions/124
 
